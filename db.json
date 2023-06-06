@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "This is my first blog",
+      "author": "Ayush",
+      "id": 3
+    },
+    {
+      "title": "Test Blog",
+      "body": "A test blog",
+      "author": "Test101",
+      "id": 4
+    },
+    {
+      "title": "Click \"New Blog\" on the Navbar",
+      "body": "To add a new blog",
+      "author": "The dev",
+      "id": 5
+    },
+    {
+      "title": "Hello",
+      "body": "Hello",
+      "author": "Hello",
+      "id": 6
+    }
+  ]
+}
